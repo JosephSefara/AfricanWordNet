@@ -33,7 +33,7 @@ def read(fname):
 setuptools.setup(
       name='africanwordnet',
       version=__version__,
-      packages=setuptools.find_packages(exclude=('test*', )),
+      packages=setuptools.find_packages(exclude=('test*', 'data*')),
       author='Joseph Sefara',
       author_email='sefaratj@gmail.com',
       license='CC BY-NC-SA 4.0',
