@@ -14,6 +14,13 @@ This library extends [OMW](http://compling.hss.ntu.edu.sg/omw/) implemented in [
 
 * [Python 3](https://docs.python.org/3.5/)
 * [NLTK](https://www.nltk.org/)
+## Installation
+
+- From Pypi
+  - ```pip install africanwordnet```
+- From source
+  - ```pip install https://github.com/JosephSefara/AfricanWordNet.git```
+
 ## Citation Paper
 ```
 @inproceedings{sefara2020practical,
