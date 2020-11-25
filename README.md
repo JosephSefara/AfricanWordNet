@@ -8,7 +8,7 @@ This library extends [OMW](http://compling.hss.ntu.edu.sg/omw/) implemented in [
 - isiZulu (zul)
 - isiXhosa (xho)
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) [![GitHub release](https://img.shields.io/github/release/josephsefara/africanwordnet.svg?maxAge=3600)](https://github.com/josephsefara/africanwordnet/releases) [![Wheel](https://img.shields.io/pypi/wheel/africanwordnet.svg?maxAge=3600)](https://pypi.python.org/pypi/africanwordnet) [![python](https://img.shields.io/pypi/pyversions/africanwordnet.svg?maxAge=3600)](https://pypi.org/project/africanwordnet/) [![TotalDownloads](https://pepy.tech/badge/africanwordnet)]
+[![licence](https://img.shields.io/pypi/l/africanwordnet)](https://github.com/josephsefara/africanwordnet/blob/master/LICENSE) [![GitHub release](https://img.shields.io/github/release/josephsefara/africanwordnet.svg?maxAge=3600)](https://github.com/josephsefara/africanwordnet/releases) [![Wheel](https://img.shields.io/pypi/wheel/africanwordnet.svg?maxAge=3600)](https://pypi.python.org/pypi/africanwordnet) [![python](https://img.shields.io/pypi/pyversions/africanwordnet.svg?maxAge=3600)](https://pypi.org/project/africanwordnet/) [![TotalDownloads](https://pepy.tech/badge/africanwordnet)] 
 
 ## Requirements
 
