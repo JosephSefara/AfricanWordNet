@@ -8,7 +8,7 @@ This library extends [OMW](http://compling.hss.ntu.edu.sg/omw/) implemented in [
 - isiZulu (zul)
 - isiXhosa (xho)
 
-[![licence](https://img.shields.io/pypi/l/africanwordnet)](https://github.com/josephsefara/africanwordnet/blob/master/LICENSE) [![GitHub release](https://img.shields.io/github/release/josephsefara/africanwordnet.svg?maxAge=3600)](https://github.com/josephsefara/africanwordnet/releases) [![Wheel](https://img.shields.io/pypi/wheel/africanwordnet.svg?maxAge=3600)](https://pypi.python.org/pypi/africanwordnet) [![python](https://img.shields.io/pypi/pyversions/africanwordnet.svg?maxAge=3600)](https://pypi.org/project/africanwordnet/) [![TotalDownloads](https://pepy.tech/badge/africanwordnet)] 
+[![licence](https://img.shields.io/pypi/l/africanwordnet)](https://github.com/josephsefara/africanwordnet/blob/master/LICENSE) [![GitHub release](https://img.shields.io/github/release/josephsefara/africanwordnet.svg?maxAge=3600)](https://github.com/josephsefara/africanwordnet/releases) [![Wheel](https://img.shields.io/pypi/wheel/africanwordnet.svg?maxAge=3600)](https://pypi.python.org/pypi/africanwordnet) [![python](https://img.shields.io/pypi/pyversions/africanwordnet.svg?maxAge=3600)](https://pypi.org/project/africanwordnet/) [![TotalDownloads](https://pepy.tech/badge/africanwordnet)]((https://pypi.python.org/pypi/africanwordnet))
 
 ## Requirements
 
@@ -212,3 +212,8 @@ print('taelo', '---', words)
 
 taelo --- {'taelo', 'tagafalo', 'molao', 'tlhalošo'}
 ```
+
+## License
+
+Library distributed under  the [MIT license](https://github.com/JosephSefara/AfricanWordNet/blob/master/LICENSE).
+Data is distributed under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
