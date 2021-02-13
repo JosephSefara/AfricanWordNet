@@ -23,12 +23,12 @@ This library extends [OMW](http://compling.hss.ntu.edu.sg/omw/) implemented in [
 
 ## Citation Paper
 ```
-@inproceedings{sefara2020practical,
-  title={Paper Title},
+@inproceedings{sefara2021practical,
+  title={Practical Approach on Implementation of WordNets for South African Languages},
   author={Sefara, Tshephisho and Mokgonyane, Tumisho and Marivate, Vukosi},
-  booktitle={Proceedings of the Eleventh Global Wordnet Conference},
-  paages={},
-  year={2020},
+  booktitle={Proceedings of the 11th Global Wordnet Conference},
+  pages={20--25},
+  year={2021},
 }
 ```
 
