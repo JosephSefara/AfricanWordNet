@@ -21,7 +21,7 @@ This library extends [OMW](http://compling.hss.ntu.edu.sg/omw/) implemented in [
 - From source
   - ```pip install https://github.com/JosephSefara/AfricanWordNet.git```
 
-## [Citation Paper](https://www.globalwordnet.co.za/wp-content/uploads/2021/01/pre-conference-proceedings.pdf#page=28)
+## [Citation Paper](https://www.aclweb.org/anthology/2021.gwc-1.3.pdf)
 ```
 @inproceedings{sefara2021practical,
   title={Practical Approach on Implementation of WordNets for South African Languages},
